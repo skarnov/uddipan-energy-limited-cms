@@ -1,0 +1,150 @@
+.header_wrapper, .top_wrapper {
+}
+.top-header {
+    background-color: #fff;
+}
+.searchbox {
+    background-color: #005229;
+}
+.navigation > li > a, .navigation > li > a > i, .sticky-navigation .navigation > a {
+    color: #00804c;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.navigation > li:hover > a, .navigation > li:hover > a > i, .navigation > li > .activelink, .navigation > li > a:hover {
+    color: #61c694;
+}
+.navigation ul {
+    background-color: #fff;
+    border-color: #007a3d;
+}
+.navigation ul li a {
+    background-color: #fff;
+    color: #00b26b;
+}
+.mobile-menu-button, .mobile-nav {
+    background-color: #16a085;
+}
+.mobile-menu-button:hover {
+    background-color: #16a085;
+    opacity: 0.7;
+}
+.navigation > li > .activelink::after, .navigation > li > a::after {
+    background-color: #16a085;
+}
+.navigation .icon-arrow-menu {
+    color: #16a085;
+}
+.navigation ul li a.activelink, .navigation ul li:hover > a {
+    background-color: #4ddb94;
+    color: #010101;
+}
+.navigation .icon-arrow-submenu, .navigation ul li:hover > a i {
+    color: #787878;
+}
+.sticky-navigation {
+    background-color: white;
+}
+.h1-page-title {
+    color: #16a085;
+}
+.h2-page-desc {
+    color: #405974;
+}
+.body-wrapper a, .bottom-body a, .breadcrumbs li:last-child, .tab a, .top-body a, accordion .title {
+    color: #4b4b4b;
+}
+.body-wrapper a:hover, .bottom-body a:hover, .tab a:hover, .top-body a:hover, accordion .title:hover {
+    color: #16a085;
+}
+.callout-box, .feature .feature-content, .team-member .team-member-content {
+    border-color: #16a085;
+}
+.team-member-progress-bar {
+    background: #16a085 none repeat scroll 0 0;
+}
+.tab a.active::after {
+    background-color: #16a085;
+    border-color: #16a085;
+}
+.accordion .title:hover h4, .content-box.content-style2 h4 i {
+    color: #16a085;
+}
+.body-wrapper input[type="submit"], .body-wrapper input[type="button"], .button, button.button-main {
+    background-color: #17977e;
+    border-color: #1b9c82;
+    color: #e7e7e7 !important;
+    text-shadow: 0 1px 0 #989898;
+}
+.body-wrapper input[type="submit"]:active, .body-wrapper input[type="submit"]:hover, .body-wrapper input[type="button"]:active, .body-wrapper input[type="button"]:hover, .button:active, .button:hover, button.button-main:active, button.button-main:hover {
+    background-color: #1abc9c;
+    color: #e7e7e7 !important;
+    text-shadow: 0 1px 0 #989898;
+}
+.blog-post-icon, .carousel-container .carousel-icon:hover, .comments-list .children .comment::before, .dropcaps.dropcaps-color-style, .portfolio-filter li a.portfolio-selected, .portfolio-filter li a:hover {
+    background-color: #16a085;
+}
+.comments-list .children .comment::after {
+    border-color: transparent transparent transparent #16a085;
+}
+.side-navigation .menu-item.current-menu-item a, .side-navigation .menu-item:hover a, .side-navigation .menu-item:hover a::after {
+    color: #16a085;
+}
+.tool-tip {
+    color: #16a085 !important;
+}
+.highlighted-text {
+    background-color: #16a085;
+    color: #fff;
+}
+.blog-post-date .day, .blog-post-date .month, .icons-list.colored-list li::before, span.colored, strong.colored {
+    color: #16a085;
+}
+.pagination .next, .pagination .prev, .pagination a.current, .pagination a:hover {
+    background-color: #16a085;
+    color: #fff;
+}
+div.pagination a {
+    border-color: #16a085;
+    color: #16a085;
+}
+.contact-map {
+    border-color: #16a085;
+}
+.footer::after {
+    background-color: #c7c8c7;
+}
+.footer::before {
+    background-color: #4ddb94;
+}
+.footer {
+    background: #e7e6e6 none repeat scroll 0 0;
+}
+.footer .copyright {
+    background-color: #005229;
+    color: #bcbcbc;
+}
+.footer .copyright a {
+    color: #eaeaea;
+}
+.footer .copyright a:hover {
+    color: #fdfdfd;
+}
+.footer .footer-col .footer-content .input {
+    background-color: #fff;
+    color: #060;
+}
+.footer .footer-col .footer-content input[type="submit"], .footer button {
+    background-color: #005229;
+}
+.footer .footer-col .footer-content, .footer .footer-col .footer-content .footer-content-text {
+    color: #fff;
+}
+.footer .footer-col .footer-content a {
+    color: #626469;
+font-weight:bold;
+}
+.footer .footer-col .footer-content a:hover {
+    color: #626469;
+}
